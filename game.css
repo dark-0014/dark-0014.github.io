@@ -29,8 +29,8 @@ h1, h2 {
     border-radius: 15px;
     max-width: 125px;
     max-height: 125px;
-    height: 40vh;
-    width: 40vw;
+    height: 25vw;
+    width: 25vw;
     font-size: 50px;
 }
 .grid-item:disabled {
